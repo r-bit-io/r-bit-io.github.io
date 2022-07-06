@@ -1,0 +1,1 @@
+:root{--green:#1c96a5;--green2:#0f535c;--light-green:#b0c8cb;--dark-green:#1f2a2c;--white:#eee;--font-family:Poppins}body{font-family:var(--font-family);margin:0;padding:0}h1{font-weight:700;overflow-wrap:normal}h1,p{color:var(--dark-green)}p{font-weight:400}html{scroll-behavior:smooth}
